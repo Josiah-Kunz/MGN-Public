@@ -1,0 +1,18 @@
+# Ignore all the generated data (we can generate it locally)
+**/agentic_ml/data/
+**/results/*
+
+# BUT keep trained models
+!**/results/*.pt
+
+# __init__.py generates these
+**/__pycache__/
+
+# Rider-generated files for its solution
+.idea/
+
+# Creo-generated files
+**.log.**
+
+# MSOffice-like lock files
+**.~lock.**

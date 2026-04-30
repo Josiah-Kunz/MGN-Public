@@ -1,0 +1,27 @@
+﻿MB_INST_IDX      25
+2   1_BASE                              PLATE-WITH-HOLE_VERYING            
+2   1_BASE                              PLATE-WITH-HOLE                    
+2   1_BASE                              PLATE-WITH-HOLE_8IN_ELLIPSE        
+2   1_BASE                              PLATE-WITH-HOLE_8IN_SQUARE         
+2   1_BASE                              PLATE-WITH-HOLE_8IN_HEX            
+2   2_THICKER                           PLATE-WITH-HOLE                    
+2   2_THICKER                           PLATE-WITH-HOLE_8IN_HEX            
+2   2_THICKER                           PLATE-WITH-HOLE_8IN_ELLIPSE        
+2   2_THICKER                           PLATE-WITH-HOLE_8IN_SQUARE         
+2   2_THICKER                           PLATE-WITH-HOLE_VERYING            
+2   3_THICK_LARGE_HOLE                  PLATE-WITH-HOLE                    
+2   3_THICK_LARGE_HOLE                  PLATE-WITH-HOLE_8IN_HEX            
+2   3_THICK_LARGE_HOLE                  PLATE-WITH-HOLE_8IN_ELLIPSE        
+2   3_THICK_LARGE_HOLE                  PLATE-WITH-HOLE_8IN_SQUARE         
+2   3_THICK_LARGE_HOLE                  PLATE-WITH-HOLE_VERYING            
+2   4_THIN_LARGE_HOLE                   PLATE-WITH-HOLE_8IN_ELLIPSE        
+2   4_THIN_LARGE_HOLE                   PLATE-WITH-HOLE_8IN_SQUARE         
+2   4_THIN_LARGE_HOLE                   PLATE-WITH-HOLE_8IN_HEX            
+2   4_THIN_LARGE_HOLE                   PLATE-WITH-HOLE                    
+2   4_THIN_LARGE_HOLE                   PLATE-WITH-HOLE_VERYING            
+2   5_THIN_MEDIUM_HOLE                  PLATE-WITH-HOLE_VERYING            
+2   5_THIN_MEDIUM_HOLE                  PLATE-WITH-HOLE                    
+2   5_THIN_MEDIUM_HOLE                  PLATE-WITH-HOLE_8IN_HEX            
+2   5_THIN_MEDIUM_HOLE                  PLATE-WITH-HOLE_8IN_SQUARE         
+2   5_THIN_MEDIUM_HOLE                  PLATE-WITH-HOLE_8IN_ELLIPSE        
+MB_INST_IDX      25
