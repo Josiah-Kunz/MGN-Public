@@ -13,6 +13,8 @@ This repository accompanies the paper:
 - **Clean, high-level API**: Go from geometry to trained surrogate model with simplicity
 - **Fast inference**: Sub-second predictions compared to minutes for FEM
 
+![Overview schematic](./readme_assets/overview.jpg)
+
 ## Installation
 
 ```bash
@@ -118,4 +120,4 @@ mgn = MGN.load("model.pt")
 | `numpy`, `pandas` | Numerics and data handling |
 | `matplotlib` | Visualization |
 
-See also 
+See also [requirements.txt](<https://github.com/Josiah-Kunz/MGN-Public/blob/main/requirements.txt>).
