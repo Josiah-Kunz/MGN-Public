@@ -30,8 +30,8 @@ main_package/
 ├── fem_object/             # FEM problem setup, solving, and visualization
 │   ├── material.py         # Linear-elastic material properties
 │   ├── load_types.py       # VolumeLoad, SurfaceLoad, EdgeLoad, PointLoad
-│   ├── load_collection.py
-│   ├── fixed_boundary.py
+│   ├── load_collection.py  # Housing for various load types
+│   ├── fixed_boundary.py   # FEM boundary condition (only fixed is currently supported)
 │   └── fem_object.py       # Main FEMObject class
 ├── ml_object/              # ML training & evaluation on FEM results
 │   ├── ml_object.py        # MLObject wrapper (sklearn + GNN)
@@ -121,3 +121,7 @@ mgn = MGN.load("model.pt")
 | `matplotlib` | Visualization |
 
 See also [requirements.txt](<https://github.com/Josiah-Kunz/MGN-Public/blob/main/requirements.txt>).
+
+## License
+
+[NIST License](<https://github.com/usnistgov/jarvis/blob/master/LICENSE.rst>)
