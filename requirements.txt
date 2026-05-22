@@ -1,0 +1,10 @@
+fenics
+gmsh
+meshio
+pint
+torch
+torch-geometric
+scikit-learn
+numpy
+pandas
+matplotlib
