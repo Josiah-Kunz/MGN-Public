@@ -122,6 +122,11 @@ mgn = MGN.load("model.pt")
 
 See also [requirements.txt](<https://github.com/Josiah-Kunz/MGN-Public/blob/main/requirements.txt>).
 
+## Correspondence
+
+ - [josiah.kunz@ic.edu](mailto:josiah.kunz@ic.edu)
+ - [kamal.choudhary@nist.gov](mailto:kamal.choudhary@nist.gov)
+
 ## License
 
 [NIST License](<https://github.com/usnistgov/jarvis/blob/master/LICENSE.rst>)
