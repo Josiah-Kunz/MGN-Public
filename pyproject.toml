@@ -1,7 +1,0 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.backends.legacy:BuildBackend"
-
-[project]
-name = "main_package"
-version = "0.1.0"
