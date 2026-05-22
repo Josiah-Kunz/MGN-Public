@@ -88,7 +88,7 @@ ml.evaluate_on_unseen_data()
 ml.plot_predictions()
 ```
 
-###`GNN`/`MGN`
+### `GNN`/`MGN`
 Represents either a graph neural network (GNN) model or a mesh graph network (MGN) model that uses node-level regression on `FEMObject`s.
  - `GNN`: standard GCN operating on (X, y) feature matrices with an explicit edge CSV
  - `MGN`: geometry-agnostic model inspired by Pfaff et al. 2021. Uses relative edge features and learned node-type embeddings (such as `hole` or `fixed`) so it can generalize across different geometries. Usage snippet (see [examples folder](<https://github.com/Josiah-Kunz/MGN-Public/tree/main/examples>) for more):
