@@ -129,4 +129,4 @@ See also [requirements.txt](<https://github.com/Josiah-Kunz/MGN-Public/blob/main
 
 ## License
 
-[NIST License](<https://github.com/usnistgov/jarvis/blob/master/LICENSE.rst>)
+[Apache License 2.0](<https://github.com/apache/.github/blob/main/LICENSE>)
