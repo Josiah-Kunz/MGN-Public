@@ -17,15 +17,30 @@ This repository accompanies the paper:
 
 ## Installation
 
+### Google Colab (recommended)
+
+```python
+# Install FEniCS for Colab
+!wget "https://fem-on-colab.github.io/releases/fenics-install-release-real.sh" -O "/tmp/fenics-install.sh" && bash "/tmp/fenics-install.sh"
+!apt-get install -y libglu1-mesa -q
+
+# Install meshgraphnet
+!pip install meshgraphnet -q
+```
+
+### Local (conda)
+
 ```bash
-git clone https://github.com/Josiah-Kunz/MGN-Public.git
-cd MGN-Public
-pip install -r requirements.txt
+# FEniCS must be installed via conda
+conda install -c conda-forge fenics
+
+# Then install meshgraphnet
+pip install meshgraphnet
 ```
 
 ## Package Structure
 ```
-main_package/
+meshgraphnet/
 ├── mesh_object/            # Geometry loading & meshing (STEP -> Dolfin)
 ├── fem_object/             # FEM problem setup, solving, and visualization
 │   ├── material.py         # Linear-elastic material properties
