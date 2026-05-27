@@ -13,7 +13,7 @@ This repository accompanies the paper:
 - **Clean, high-level API**: Go from geometry to trained surrogate model with simplicity
 - **Fast inference**: Sub-second predictions compared to minutes for FEM
 
-![Overview schematic](./readme_assets/overview.jpg)
+![Overview schematic](https://raw.githubusercontent.com/Josiah-Kunz/MGN-Public/colab-examples/readme_assets/overview.jpg)
 
 ## Installation
 

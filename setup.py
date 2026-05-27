@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="meshgraphnet",
-    version="0.1.0",
+    version="0.1.1",
     author="Josiah D. Kunz, Kamal Choudhary",
     author_email="josiah.kunz@ic.edu",
     description="Graph neural network surrogates for FEA on arbitrary geometries",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Josiah-Kunz/meshgraphnet",
+    url="https://github.com/Josiah-Kunz/MGN-Public",
     packages=find_packages(),
     install_requires=[
         "gmsh",
