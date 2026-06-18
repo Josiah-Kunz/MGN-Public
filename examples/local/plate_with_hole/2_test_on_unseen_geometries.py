@@ -2,7 +2,7 @@
 Load trained MGN and test on unseen geometries.
 """
 
-from main_package import *
+from meshgraphnet import *
 import os
 
 # Settings

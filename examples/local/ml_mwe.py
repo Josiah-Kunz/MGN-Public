@@ -1,6 +1,6 @@
 import os
 from sklearn.ensemble import GradientBoostingRegressor
-from main_package import MLObject
+from meshgraphnet import MLObject
 
 def main():
 

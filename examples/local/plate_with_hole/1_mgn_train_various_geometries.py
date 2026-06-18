@@ -5,7 +5,7 @@ MGN uses FEM context directly (boundaries, loads, mesh topology) rather than CSV
 This allows it to learn geometry-agnostic physics that can transfer to new geometries.
 """
 
-from main_package import *
+from meshgraphnet import *
 import os
 import numpy as np
 
